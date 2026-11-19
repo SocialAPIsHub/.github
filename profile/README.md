@@ -13,6 +13,7 @@
 | **Go** | `go get github.com/SocialAPIsHub/socialapis-go` | [socialapis-go](https://github.com/SocialAPIsHub/socialapis-go) |
 | **MCP** (Claude, Cursor, Cline…) | `npx -y @socialapis/mcp` or hosted at `https://mcp.socialapis.io/mcp` | [mcp-server](https://github.com/SocialAPIsHub/mcp-server) |
 | **n8n** | community node | [n8n-nodes-socialapis](https://github.com/SocialAPIsHub/n8n-nodes-socialapis) |
+| **Coding agents** (Claude Code, Cursor, Codex…) | `npx skills add SocialAPIsHub/skills` | [skills](https://github.com/SocialAPIsHub/skills) |
 
 ## Migrating from an abandoned scraper?
 
