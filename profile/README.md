@@ -11,9 +11,17 @@
 | **Python** | `pip install socialapis-sdk` | [socialapis-python](https://github.com/SocialAPIsHub/socialapis-python) |
 | **JavaScript / TypeScript** | `npm install socialapis-sdk` | [socialapis-js](https://github.com/SocialAPIsHub/socialapis-js) |
 | **Go** | `go get github.com/SocialAPIsHub/socialapis-go` | [socialapis-go](https://github.com/SocialAPIsHub/socialapis-go) |
+| **PHP** (Laravel, Symfony, WordPress…) | `composer require socialapishub/socialapis` | [socialapis-php](https://github.com/SocialAPIsHub/socialapis-php) |
 | **MCP** (Claude, Cursor, Cline…) | `npx -y @socialapis/mcp` or hosted at `https://mcp.socialapis.io/mcp` | [mcp-server](https://github.com/SocialAPIsHub/mcp-server) |
 | **n8n** | community node | [n8n-nodes-socialapis](https://github.com/SocialAPIsHub/n8n-nodes-socialapis) |
 | **Coding agents** (Claude Code, Cursor, Codex…) | `npx skills add SocialAPIsHub/skills` | [skills](https://github.com/SocialAPIsHub/skills) |
+
+## Packages for one job
+
+| | Install | Repo |
+|---|---|---|
+| **Meta Ads Library** search by keyword or advertiser, CSV export, CLI | `pip install facebook-ads-library-api` · `npm install facebook-ads-library-api` | [facebook-ads-library-api](https://github.com/SocialAPIsHub/facebook-ads-library-api) |
+| **Facebook Pages, posts, groups, comments** with `facebook-scraper` style functions, CLI | `pip install facebook-scraper-api` · `npm install facebook-scraper-api` | [facebook-scraper-python](https://github.com/SocialAPIsHub/facebook-scraper-python) · [facebook-scraper-js](https://github.com/SocialAPIsHub/facebook-scraper-js) |
 
 ## Migrating from an abandoned scraper?
 
