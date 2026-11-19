@@ -21,4 +21,12 @@
 - [instagram-scraper-python](https://github.com/SocialAPIsHub/instagram-scraper-python) — replacement for `arc298/instagram-scraper`
 - [facebook-scraper-js](https://github.com/SocialAPIsHub/facebook-scraper-js) · [instagram-scraper-js](https://github.com/SocialAPIsHub/instagram-scraper-js) — Node.js equivalents
 
+## Free live follower badges
+
+Show a public Facebook Page's or Instagram account's follower count on your site or README, updated about once a day. No API key, no account.
+
+[![NASA Facebook followers](https://socialapis.io/badge/facebook/nasa.svg)](https://socialapis.io/tools/facebook-follower-count?utm_source=github&utm_medium=readme&utm_campaign=badges) [![NASA Instagram followers](https://socialapis.io/badge/instagram/nasa.svg)](https://socialapis.io/tools/instagram-follower-count?utm_source=github&utm_medium=readme&utm_campaign=badges)
+
+Get the code: [Facebook follower count checker](https://socialapis.io/tools/facebook-follower-count?utm_source=github&utm_medium=readme&utm_campaign=badges) · [Instagram follower count checker](https://socialapis.io/tools/instagram-follower-count?utm_source=github&utm_medium=readme&utm_campaign=badges)
+
 Questions: [support@socialapis.io](mailto:support@socialapis.io)
